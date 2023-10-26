@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Compile your project here"
+python -m pip install cryptography dnslib requests
